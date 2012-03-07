@@ -10,7 +10,7 @@ public class AutoServiceActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
-		System.out.println("Comment was changed second time by some other user");
+		System.out.println("Comment was changed second time by some other user..much more words added");// comment was added
 	}
 
 	private boolean isMyServiceRunning() {
