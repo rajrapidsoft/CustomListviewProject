@@ -11,6 +11,7 @@ public class AutoServiceActivity extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		System.out.println("Comment was changed second time by some other user..much more words added..much");// comment was added
+		System.out.println("Another SOUT");
 	}
 
 	private boolean isMyServiceRunning() {
